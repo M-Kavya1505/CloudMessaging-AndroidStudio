@@ -21,7 +21,7 @@ def send_fcm_message_to_topic(topic, title, body):
     print('Successfully sent message to topic', topic, ':', response)
 
 if __name__ == '__main__':
-    topic = 'tambola'  # Replace with your topic name
+    topic = 'news'  # Replace with your topic name
     title = 'Notification'
     body = 'Weather update'
 
