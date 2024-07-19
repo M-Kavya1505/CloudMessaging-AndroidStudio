@@ -49,3 +49,4 @@
     - Open Terminal in Vs code and type and change to the root directory where run file is present.
     ```
        python run.py
+    ```
