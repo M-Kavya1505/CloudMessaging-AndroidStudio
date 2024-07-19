@@ -9,18 +9,20 @@
 - Able to send notifications from the Firebase Console.
 
 ## Tools:
-    - Firebase Cloud Messaging (FCM)
-    - Firebase Console
-    - Visual Studio Code (VS Code)
-    - Android Studio
+- Firebase Cloud Messaging (FCM)
+- Firebase Console
+- Visual Studio Code (VS Code)
+- Android Studio
 
 ## Languages Used:
-    - Java, XML (Andhroid Studio)
-    - Python (VS Code)
+- Java, XML (Andhroid Studio)
+- Python (VS Code)
 
 ## To install dependencies:
-    - pip install firebase-admin (VS Code Terminal)
-    
+- Open Terminal in VS code and type and change to the root directory where run file is present
+    ```
+     pip install firebase-admin
+    ```
 
 ## Firebase Console:
     1. Open Firebase Console in a browser and create an account (If you already have an account in Firebase ignore this).
