@@ -19,9 +19,8 @@
     - Python (VS Code)
 
 ## To install dependencies:
-    ```
     - pip install firebase-admin (VS Code Terminal)
-    ```
+    
 
 ## Firebase Console:
     1. Open Firebase Console in a browser and create an account (If you already have an account in Firebase ignore this).
